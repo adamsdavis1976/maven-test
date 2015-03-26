@@ -6,4 +6,13 @@
   <artifactId>test</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+
+	<scm>
+		<connection>scm:git:https://github.com/adamsdavis1976/maven-test.git</connection>
+		<url>scm:git:https://github.com/adamsdavis1976/maven-test.git</url>
+		<developerConnection>scm:git:https://github.com/adamsdavis1976/maven-test.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+
+
 </project>
